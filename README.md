@@ -1,5 +1,7 @@
 # Lab 3: Variance, Correlation, and Covariance in the UBC Weather Station Data
 
+### Checkout Lab3_STUDENT.ipynb for code
+
 ## **Purpose**
 
 In this lab I analyze local (UBC weather station) and global temperature anomaly time-series for the period between 1950-2017. 
