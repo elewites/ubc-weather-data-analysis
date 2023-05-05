@@ -27,7 +27,7 @@ In this lab, I utilize linear regression analysis to ask the following three que
 4. The `Lab3_results_spreadsheet` with Table 1 and Table 2 filled with regression results (PART 6 & 7)
 5. `table_1.png` and `table_2.png` image contain same results from spreadsheet
 6. One figure containing a scatterplot of global mean temperature anomaly against temperature predicted by a multiple linear regression of the 5 forcing variables (PART 8)
-7. Analysis at the end
+7. Analysis questions at the end
  
 ### **1. The Data**
 `lab3_data.xlsx` data file contains time-series data for the following 8 variables:
