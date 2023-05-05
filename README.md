@@ -25,7 +25,7 @@ In this lab, I utilize linear regression analysis to ask the following three que
 2. One figure containing histograms of temperature before/after 1985 for local (UBC) and global temperatures (PART 3)
 3. One figure containing a scatterplot of the UBC temperature against the global mean temperature (PART 5)
 4. The `Lab3_results_spreadsheet` with Table 1 and Table 2 filled with regression results (PART 6 & 7)
-5. Table 1 image and Table 2 image contain same results from spreadsheet
+5. `table_1.png` and `table_2.png` image contain same results from spreadsheet
 6. One figure containing a scatterplot of global mean temperature anomaly against temperature predicted by a multiple linear regression of the 5 forcing variables (PART 8)
 7. Analysis at the end
  
